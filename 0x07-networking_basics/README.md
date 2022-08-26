@@ -9,7 +9,7 @@ chmod u+x 100-textme.rb && git add --chmod=+x 100-textme.rb && git commit -m 'Ad
 
 chmod u+x 3-UDP_and_TCP && git add --chmod=+x 3-UDP_and_TCP && git commit -m 'Task 03 3-UDP_and_TCP' && git push
 
-git add . && git commit -m 2-MAC_and_IP_address
+git add . && git commit -m 3-UDP_and_TCP
 
 touch 2-MAC_and_IP_address
 
