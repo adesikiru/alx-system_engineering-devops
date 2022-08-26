@@ -8,7 +8,7 @@ chmod u+x 101-lazy_matrix_mul.tx && git add --chmod=+x 101-lazy_matrix_mul.tx &&
 
 chmod u+x 6-phone_number.rb && git add --chmod=+x 6-phone_number.rb && git commit -m 'Task 06 6-phone_number.rb' && git push
 
-git add . && git commit -m 5-beginning_and_end.rb
+git add . && git commit -m 6-phone_number.rb
 
 chmod u+x 103-magic_class.py  && git add --chmod=+x 103-magic_class.py  && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
