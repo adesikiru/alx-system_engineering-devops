@@ -11,7 +11,7 @@ chmod u+x 3-UDP_and_TCP && git add --chmod=+x 3-UDP_and_TCP && git commit -m 'Ta
 
 git add . && git commit -m 3-UDP_and_TCP
 
-touch 2-MAC_and_IP_address
+touch 3-UDP_and_TCP
 
 chmod u+x 103-magic_class.py  && git add --chmod=+x 103-magic_class.py  && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
