@@ -11,7 +11,7 @@ chmod u+x 4-TCP_and_UDP_ports && git add --chmod=+x 4-TCP_and_UDP_ports && git c
 
 git add . && git commit -m 4-TCP_and_UDP_ports
 
-touch 3-UDP_and_TCP
+touch 4-TCP_and_UDP_ports
 
 chmod u+x 103-magic_class.py  && git add --chmod=+x 103-magic_class.py  && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
