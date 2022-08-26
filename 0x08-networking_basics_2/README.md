@@ -10,7 +10,7 @@ chmod u+x 100-textme.rb && git add --chmod=+x 100-textme.rb && git commit -m 'Ad
 
 chmod u+x 0-change_your_home_IP && git add --chmod=+x 0-change_your_home_IP && git commit -m 'Task 00 0-change_your_home_IP' && git push
 
-git add . && git commit -m 100-textme.rb
+git add . && git commit -m 0-change_your_home_IP
 
 chmod u+x 103-magic_class.py  && git add --chmod=+x 103-magic_class.py  && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
