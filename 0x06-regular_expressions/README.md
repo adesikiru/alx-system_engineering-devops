@@ -6,7 +6,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 101-lazy_matrix_mul.tx && git add --chmod=+x 101-lazy_matrix_mul.tx && git commit -m 'Task 07 textfile 101-lazy_matrix_mul.tx' && git push
 
-chmod u+x 6-phone_number.rb && git add --chmod=+x 6-phone_number.rb && git commit -m 'Task 06 6-phone_number.rb' && git push
+chmod u+x 7-OMG_WHY_ARE_YOU_SHOUTING.rb && git add --chmod=+x 6-phone_number.rb && git commit -m 'Task 06 6-phone_number.rb' && git push
 
 git add . && git commit -m 6-phone_number.rb
 
