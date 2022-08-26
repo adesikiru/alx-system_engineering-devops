@@ -2,7 +2,7 @@
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 101-lazy_matrix_mul.py  && git add --chmod=+x 101-lazy_matrix_mul.py  && git commit -m 'Advanced Task 00 0-simply_match_school.rb' && git push
+chmod u+x 101-lazy_matrix_mul.py  && git add --chmod=+x 0-simply_match_school.rb && git commit -m 'Advanced Task 00 0-simply_match_school.rb' && git push
 
 
 chmod u+x 101-lazy_matrix_mul.tx && git add --chmod=+x 101-lazy_matrix_mul.tx && git commit -m 'Task 07 textfile 101-lazy_matrix_mul.tx' && git push
