@@ -7,7 +7,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 100-textme.rb && git add --chmod=+x 100-textme.rb && git commit -m 'Advanced Task 100 100-textme.rb' && git push
 
-chmod u+x 2-MAC_and_IP_address && git add --chmod=+x 2-MAC_and_IP_address && git commit -m 'Task 01 1-types_of_network' && git push
+chmod u+x 2-MAC_and_IP_address && git add --chmod=+x 2-MAC_and_IP_address && git commit -m 'Task 02 1-types_of_network' && git push
 
 git add . && git commit -m 1-types_of_network
 
