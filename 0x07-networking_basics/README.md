@@ -9,7 +9,7 @@ chmod u+x 100-textme.rb && git add --chmod=+x 100-textme.rb && git commit -m 'Ad
 
 chmod u+x 5-is_the_host_on_the_network && git add --chmod=+x 5-is_the_host_on_the_network && git commit -m 'Task 05 5-is_the_host_on_the_network' && git push
 
-git add . && git commit -m 4-TCP_and_UDP_ports
+git add . && git commit -m 5-is_the_host_on_the_network
 
 touch 4-TCP_and_UDP_ports
 
