@@ -9,7 +9,7 @@ chmod u+x 100-textme.rb && git add --chmod=+x 100-textme.rb && git commit -m 'Ad
 
 chmod u+x 1-types_of_network && git add --chmod=+x 1-types_of_network && git commit -m 'Task 01 1-types_of_network' && git push
 
-git add . && git commit -m 0-OSI_model
+git add . && git commit -m 1-types_of_network
 
 touch 1-types_of_network
 
