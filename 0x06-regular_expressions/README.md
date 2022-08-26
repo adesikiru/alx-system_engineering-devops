@@ -4,7 +4,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 
 
-chmod u+x 100-textme.rb && git add --chmod=+x 101-lazy_matrix_mul.tx && git commit -m 'Advanced Task 100 textfile 101-lazy_matrix_mul.tx' && git push
+chmod u+x 100-textme.rb && git add --chmod=+x 100-textme.rb && git commit -m 'Advanced Task 100 textfile 101-lazy_matrix_mul.tx' && git push
 
 chmod u+x 7-OMG_WHY_ARE_YOU_SHOUTING.rb && git add --chmod=+x 7-OMG_WHY_ARE_YOU_SHOUTING.rb && git commit -m 'Task 07 7-OMG_WHY_ARE_YOU_SHOUTING.rb' && git push
 
