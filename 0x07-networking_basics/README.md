@@ -11,7 +11,7 @@ chmod u+x 5-is_the_host_on_the_network && git add --chmod=+x 5-is_the_host_on_th
 
 git add . && git commit -m 5-is_the_host_on_the_network
 
-touch 4-TCP_and_UDP_ports
+touch 5-is_the_host_on_the_network
 
 chmod u+x 103-magic_class.py  && git add --chmod=+x 103-magic_class.py  && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
