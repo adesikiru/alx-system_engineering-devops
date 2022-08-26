@@ -7,7 +7,7 @@ chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file li
 
 chmod u+x 100-textme.rb && git add --chmod=+x 100-textme.rb && git commit -m 'Advanced Task 100 100-textme.rb' && git push
 
-chmod u+x 0-OSI_model && git add --chmod=+x 0-OSI_model && git commit -m 'Task 00 0-OSI_model' && git push
+chmod u+x 1-types_of_network && git add --chmod=+x 0-OSI_model && git commit -m 'Task 00 0-OSI_model' && git push
 
 git add . && git commit -m 0-OSI_model
 
