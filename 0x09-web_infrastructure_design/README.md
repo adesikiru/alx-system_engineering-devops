@@ -11,7 +11,7 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x 0-simple_web_stack.PNG && git add --chmod=+x 0-simple_web_stack.PNG && git commit -m 'Task 04 Double linked list print_dlistint.c' && git push
+chmod u+x 0-simple_web_stack.PNG && git add --chmod=+x 0-simple_web_stack.PNG && git commit -m 'Task 00 Double linked list print_dlistint.c' && git push
 
 touch print_dlistint.c && git add . && git commit -m print_dlistint.c
 
