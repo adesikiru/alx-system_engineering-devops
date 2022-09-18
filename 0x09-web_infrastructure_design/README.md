@@ -11,7 +11,7 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x 3-scale_up.PNG && git add --chmod=+x 3-scale_up.PNG && git commit -m 'Task 02  Secured and monitored web infrastructure 3-scale_up.PNG'
+chmod u+x 3-scale_up.PNG && git add --chmod=+x 3-scale_up.PNG && git commit -m 'Task 03  Secured and monitored web infrastructure 3-scale_up.PNG'
  && git push
 
 touch 3-scale_up.PNG && git add . && git commit -m 3-scale_up.PNG
