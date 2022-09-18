@@ -11,10 +11,10 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x 3-scale_up.PNG && git add --chmod=+x 3-scale_up.PNG && git commit -m 'Task 03  Scale up 3-scale_up.PNG'
+chmod u+x 3-scale_up.md && git add --chmod=+x 3-scale_up.md && git commit -m 'Task 03  Scale up 3-scale_up.md'
  && git push
 
-touch 3-scale_up.PNG && git add . && git commit -m 3-scale_up.PNG
+touch 3-scale_up.md && git add . && git commit -m 3-scale_up.md
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
