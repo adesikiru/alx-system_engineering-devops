@@ -1,4 +1,4 @@
-# secured_and_monitored_web_infrastructure
+# 3-scale_up
 
 ![Image: Distributed web infrastructure](3-scale_up.PNG)
 
