@@ -11,9 +11,10 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x 0-simple_web_stack.PNG && git add --chmod=+x 0-simple_web_stack.PNG && git commit -m 'Task 00 Double linked list 0-simple_web_stack.PNG' && git push
+chmod u+x 0-simple_web_stack.PNG && git add --chmod=+x 0-simple_web_stack.PNG && git commit -m 'Task 00 Double linked list 0-simple_web_stack.PNG'
+ && git push
 
-touch 0-simple_web_stack.md && git add . && git commit -m 0-simple_web_stack.PNG
+touch 0-simple_web_stack.md && git add . && git commit -m 0-simple_web_stack.md
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
