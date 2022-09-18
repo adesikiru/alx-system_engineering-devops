@@ -11,7 +11,7 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x 1-distributed_web_infrastructure.PNG && git add --chmod=+x 1-distributed_web_infrastructure.PNG && git commit -m 'Task 01 Double linked list 1-distributed_web_infrastructure.PNG'
+chmod u+x 1-distributed_web_infrastructure.PNG && git add --chmod=+x 1-distributed_web_infrastructure.PNG && git commit -m 'Task 01 Distributed web infrastructure 1-distributed_web_infrastructure.PNG'
  && git push
 
 touch 1-distributed_web_infrastructure.PNG && git add . && git commit -m 1-distributed_web_infrastructure.PNG
