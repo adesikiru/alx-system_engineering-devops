@@ -11,10 +11,10 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 
 && git push
 
-chmod u+x 2-secured_and_monitored_web_infrastructure.PNG && git add --chmod=+x 2-secured_and_monitored_web_infrastructure.PNG && git commit -m 'Task 02  Secured and monitored web infrastructure 2-secured_and_monitored_web_infrastructure.PNG'
+chmod u+x 2-secured_and_monitored_web_infrastructure.md && git add --chmod=+x 2-secured_and_monitored_web_infrastructure.md && git commit -m 'Task 02  Secured and monitored web infrastructure 2-secured_and_monitored_web_infrastructure.md'
  && git push
 
-touch 2-secured_and_monitored_web_infrastructure.PNG && git add . && git commit -m 2-secured_and_monitored_web_infrastructure.PNG
+touch 2-secured_and_monitored_web_infrastructure.md && git add . && git commit -m 2-secured_and_monitored_web_infrastructure.md
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
