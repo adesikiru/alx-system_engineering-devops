@@ -1,4 +1,4 @@
-# 2-secured_and_monitored_web_infrastructure
+# secured_and_monitored_web_infrastructure
 
 ![Image: Distributed web infrastructure](2-secured_and_monitored_web_infrastructure.PNG)
 
