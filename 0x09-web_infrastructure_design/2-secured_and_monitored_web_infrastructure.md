@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a simple distributed web design infrastructure with two servers. Traffic and requests from clients being handled by a load balancer which directs traffic to the servers based on their current state and available resources to handle requests. Hence reducing the chances of network overload or web site downtime.
+This is a secured and monitored web infrastructure with two servers. Traffic and requests from clients being handled by a load balancer which directs traffic to the servers based on their current state and available resources to handle requests. Hence reducing the chances of network overload or web site downtime.
 
 ## Specifics About This Infrastructure
 
