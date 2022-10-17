@@ -5,14 +5,15 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && git commit -m 'header file relationship_state.py' && git push
 
-chmod u+x 102-relationship_cities_states_list.py && git add --chmod=+x 102-relationship_cities_states_list.py && git commit -m 'Advanced Task 102 a script that lists all City objects from the database hbtn_0e_101_usa 102-relationship_cities_states_list.py' && git push
+chmod u+x 100-puppet_ssh_config.pp && git add --chmod=+x 100-puppet_ssh_config.pp && git commit -m 'Advanced Task 102 a script that lists all City objects from the database hbtn_0e_101_usa 100-puppet_ssh_config.pp' && git push
 
 chmod u+x authorized_keys && git add --chmod=+x authorized_keys && git commit -m 'Task 03 Let me in! authorized_keys' && git push
 
 touch authorized_keys && git add . && git commit -m authorized_keys
 
 
-make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
+make -f 100-puppet_ssh_config.pp && git add . && git commit -m 100-puppet_ssh_config.pp
+
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
