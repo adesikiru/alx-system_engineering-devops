@@ -7,7 +7,7 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 102-relationship_cities_states_list.py && git add --chmod=+x 102-relationship_cities_states_list.py && git commit -m 'Advanced Task 102 a script that lists all City objects from the database hbtn_0e_101_usa 102-relationship_cities_states_list.py' && git push
 
-chmod u+x 0-use_a_private_key && git add --chmod=+x 0-use_a_private_key && git commit -m 'Task 14 a Python file similar to model_state.py named model_city.py that contains the class definition of a City. 0-use_a_private_key' && git push
+chmod u+x 0-use_a_private_key && git add --chmod=+x 0-use_a_private_key && git commit -m 'Task 00 a Python file similar to model_state.py named model_city.py that contains the class definition of a City. 0-use_a_private_key' && git push
 
 touch 0-use_a_private_key && git add . && git commit -m 0-use_a_private_key
 
