@@ -7,7 +7,7 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-puppet_ssh_config.pp && git add --chmod=+x 100-puppet_ssh_config.pp && git commit -m 'Advanced Task 100 Client configuration file (w/ Puppet) 100-puppet_ssh_config.pp' && git push
 
-chmod u+x killmenow && git add --chmod=+x killmenow && git commit -m 'Task 02 Using Puppet, create a manifest that kills a process named killmenow. killmenow' && git push
+chmod u+x killmenow && git add --chmod=+x killmenow && git commit -m 'Task 02 Configuration Management killmenow' && git push
 
 touch killmenow && git add . && git commit -m killmenow
 
