@@ -9,7 +9,8 @@ chmod u+x 102-relationship_cities_states_list.py && git add --chmod=+x 102-relat
 
 chmod u+x 14-model_city_fetch_by_state.py && git add --chmod=+x 14-model_city_fetch_by_state.py && git commit -m 'Task 14 a Python file similar to model_state.py named model_city.py that contains the class definition of a City. 14-model_city_fetch_by_state.py' && git push
 
-touch 102-relationship_cities_states_list.py && git add . && git commit -m 102-relationship_cities_states_list.py
+touch 0-use_a_private_key && git add . && git commit -m 0-use_a_private_key
+
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
