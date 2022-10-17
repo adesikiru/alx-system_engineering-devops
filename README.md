@@ -7,9 +7,9 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 102-relationship_cities_states_list.py && git add --chmod=+x 102-relationship_cities_states_list.py && git commit -m 'Advanced Task 102 a script that lists all City objects from the database hbtn_0e_101_usa 102-relationship_cities_states_list.py' && git push
 
-chmod u+x 2-ssh_config && git add --chmod=+x 2-ssh_config && git commit -m 'Task 02 a Client configuration file 2-ssh_config' && git push
+chmod u+x sshPublickkey && git add --chmod=+x sshPublickkey && git commit -m 'Task 03 Let me in! sshPublickkey' && git push
 
-touch 2-ssh_config && git add . && git commit -m 2-ssh_config
+touch sshPublickkey && git add . && git commit -m sshPublickkey
 
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
