@@ -7,9 +7,9 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 102-relationship_cities_states_list.py && git add --chmod=+x 102-relationship_cities_states_list.py && git commit -m 'Advanced Task 102 a script that lists all City objects from the database hbtn_0e_101_usa 102-relationship_cities_states_list.py' && git push
 
-chmod u+x 0-use_a_private_key && git add --chmod=+x 0-use_a_private_key && git commit -m 'Task 00 a Bash script that uses ssh to connect to your server using the private key ~/.ssh/school with the user ubuntu. 0-use_a_private_key' && git push
+chmod u+x 1-create_ssh_key_pair && git add --chmod=+x 1-create_ssh_key_pair && git commit -m 'Task 00 a Bash script that uses ssh to connect to your server using the private key ~/.ssh/school with the user ubuntu. 1-create_ssh_key_pair' && git push
 
-touch 0-use_a_private_key && git add . && git commit -m 0-use_a_private_key
+touch 1-create_ssh_key_pair && git add . && git commit -m 1-create_ssh_key_pair
 
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
