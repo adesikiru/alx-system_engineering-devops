@@ -9,7 +9,8 @@ chmod u+x 100-puppet_ssh_config.pp && git add --chmod=+x 100-puppet_ssh_config.p
 
 chmod u+x authorized_keys && git add --chmod=+x authorized_keys && git commit -m 'Task 03 Let me in! authorized_keys' && git push
 
-touch authorized_keys && git add . && git commit -m authorized_keys
+touch 100-puppet_ssh_config.pp && git add . && git commit -m 100-puppet_ssh_config.pp
+
 
 
 make -f 100-puppet_ssh_config.pp && git add . && git commit -m 100-puppet_ssh_config.pp
