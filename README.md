@@ -7,9 +7,9 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-puppet_ssh_config.pp && git add --chmod=+x 100-puppet_ssh_config.pp && git commit -m 'Advanced Task 100 Client configuration file (w/ Puppet) 100-puppet_ssh_config.pp' && git push
 
-chmod u+x 0-transfer_file && git add --chmod=+x 0-transfer_file && git commit -m 'Task 00 0-transfer_file' && git push
+chmod u+x 2-setup_a_domain_name && git add --chmod=+x 2-setup_a_domain_name && git commit -m 'Task 02 2-setup_a_domain_name' && git push
 
-touch 0-transfer_file && git add . && git commit -m 0-transfer_file
+touch 2-setup_a_domain_name && git add . && git commit -m 2-setup_a_domain_name
 
 make -f 100-puppet_ssh_config.pp && git add . && git commit -m 100-puppet_ssh_config.pp
 
