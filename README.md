@@ -7,9 +7,9 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-puppet_ssh_config.pp && git add --chmod=+x 100-puppet_ssh_config.pp && git commit -m 'Advanced Task 100 Client configuration file (w/ Puppet) 100-puppet_ssh_config.pp' && git push
 
-chmod u+x 2-setup_a_domain_name && git add --chmod=+x 2-setup_a_domain_name && git commit -m 'Task 02 2-setup_a_domain_name' && git push
+chmod u+x 0-world_wide_web && git add --chmod=+x 0-world_wide_web && git commit -m 'Task 02 0-world_wide_web' && git push
 
-touch 2-setup_a_domain_name && git add . && git commit -m 2-setup_a_domain_name
+touch 0-world_wide_web && git add . && git commit -m 0-world_wide_web
 
 make -f 100-puppet_ssh_config.pp && git add . && git commit -m 100-puppet_ssh_config.pp
 
@@ -20,5 +20,7 @@ chmod u+x 6-print_hexa.py && git add --all && git commit -m 'task 06 6-print_hex
 API Key: e01976a189aad01d8afe4ec4cae60915
 
 mkdir 0x10-https_ssl && 
+
+cd .. && git add . && git commit -m readme
 
 cd 0x10-https_ssl && echo '# 0x10-https_ssl' >> README.md
