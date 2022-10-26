@@ -17,7 +17,8 @@ chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git com
 
 chmod u+x 6-print_hexa.py && git add --all && git commit -m 'task 06 6-print_hexa.py' && git push
 
-
-
-
 API Key: e01976a189aad01d8afe4ec4cae60915
+
+mkdir 0x10-https_ssl && 
+
+cd 0x10-https_ssl && echo '# 0x10-https_ssl' >> README.md
