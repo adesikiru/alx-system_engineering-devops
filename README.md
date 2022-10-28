@@ -9,7 +9,7 @@ chmod u+x 1-debugging_made_short && git add --chmod=+x 1-debugging_made_short &&
 
 chmod u+x 3-deploy_web_static.py && git add --chmod=+x 3-deploy_web_static.py && git commit -m 'Task 03 3-deploy_web_static.py' && git push
 
-touch 1-debugging_made_short && git add . && git commit -m 1-debugging_made_short
+touch 0-nginx_likes_port_80 && git add . && git commit -m 0-nginx_likes_port_80
 
 make -f 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
