@@ -9,7 +9,7 @@ chmod u+x 100-redirect_http_to_https && git add --chmod=+x 100-redirect_http_to_
 
 chmod u+x 3-deploy_web_static.py && git add --chmod=+x 3-deploy_web_static.py && git commit -m 'Task 03 3-deploy_web_static.py' && git push
 
-touch 3-deploy_web_static.py && git add . && git commit -m 3-deploy_web_static.py
+touch 100-clean_web_static.py && git add . && git commit -m 100-clean_web_static.py
 
 make -f 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
