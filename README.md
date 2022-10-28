@@ -5,13 +5,13 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && git commit -m 'header file relationship_state.py' && git push
 
-chmod u+x 100-puppet_ssh_config.pp && git add --chmod=+x 100-puppet_ssh_config.pp && git commit -m 'Advanced Task 100 Client configuration file (w/ Puppet) 100-puppet_ssh_config.pp' && git push
+chmod u+x 100-redirect_http_to_https && git add --chmod=+x 100-redirect_http_to_https && git commit -m 'Advanced Task 100 Client configuration file (w/ Puppet) 100-redirect_http_to_https' && git push
 
 chmod u+x 1-haproxy_ssl_termination && git add --chmod=+x 1-haproxy_ssl_termination && git commit -m 'Task 01 1-haproxy_ssl_termination' && git push
 
 touch 1-haproxy_ssl_termination && git add . && git commit -m 1-haproxy_ssl_termination
 
-make -f 100-puppet_ssh_config.pp && git add . && git commit -m 100-puppet_ssh_config.pp
+make -f 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
