@@ -5,7 +5,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && git commit -m 'header file relationship_state.py' && git push
 
-chmod u+x 100-redirect_http_to_https && git add --chmod=+x 100-redirect_http_to_https && git commit -m 'Advanced Task 100 Client configuration file (w/ Puppet) 100-redirect_http_to_https' && git push
+chmod u+x 100-redirect_http_to_https && git add --chmod=+x 100-redirect_http_to_https && git commit -m 'Advanced Task 100 100-redirect_http_to_https' && git push
 
 chmod u+x 1-haproxy_ssl_termination && git add --chmod=+x 1-haproxy_ssl_termination && git commit -m 'Task 01 1-haproxy_ssl_termination' && git push
 
