@@ -9,7 +9,7 @@ chmod u+x 100-redirect_http_to_https && git add --chmod=+x 100-redirect_http_to_
 
 chmod u+x 1-haproxy_ssl_termination && git add --chmod=+x 1-haproxy_ssl_termination && git commit -m 'Task 01 1-haproxy_ssl_termination' && git push
 
-touch 1-haproxy_ssl_termination && git add . && git commit -m 1-haproxy_ssl_termination
+touch 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
 make -f 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
