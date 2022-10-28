@@ -5,11 +5,11 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && git commit -m 'header file relationship_state.py' && git push
 
-chmod u+x 100-clean_web_static.py && git add --chmod=+x 100-clean_web_static.py && git commit -m 'Advanced Task 100 100-clean_web_static.py' && git push
+chmod u+x 101-setup_web_static.pp && git add --chmod=+x 101-setup_web_static.pp && git commit -m 'Advanced Task 100 101-setup_web_static.pp' && git push
 
 chmod u+x 3-deploy_web_static.py && git add --chmod=+x 3-deploy_web_static.py && git commit -m 'Task 03 3-deploy_web_static.py' && git push
 
-touch 100-clean_web_static.py && git add . && git commit -m 100-clean_web_static.py
+touch 101-setup_web_static.pp && git add . && git commit -m 101-setup_web_static.pp
 
 make -f 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
