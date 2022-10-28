@@ -7,7 +7,7 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 1-debugging_made_short && git add --chmod=+x 1-debugging_made_short && git commit -m 'Advanced Task 100 1-debugging_made_short' && git push
 
-chmod u+x 0-nginx_likes_port_80 && git add --chmod=+x 0-nginx_likes_port_80 && git commit -m 'Task 03 0-nginx_likes_port_80' && git push
+chmod u+x 0-nginx_likes_port_80 && git add --chmod=+x 0-nginx_likes_port_80 && git commit -m 'Task 00 0-nginx_likes_port_80' && git push
 
 touch 0-nginx_likes_port_80 && git add . && git commit -m 0-nginx_likes_port_80
 
