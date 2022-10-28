@@ -7,7 +7,7 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-redirect_http_to_https && git add --chmod=+x 100-redirect_http_to_https && git commit -m 'Advanced Task 100 100-redirect_http_to_https' && git push
 
-chmod u+x 3-deploy_web_static.py && git add --chmod=+x 3-deploy_web_static.py && git commit -m 'Task 02 3-deploy_web_static.py' && git push
+chmod u+x 3-deploy_web_static.py && git add --chmod=+x 3-deploy_web_static.py && git commit -m 'Task 03 3-deploy_web_static.py' && git push
 
 touch 3-deploy_web_static.py && git add . && git commit -m 3-deploy_web_static.py
 
