@@ -9,7 +9,7 @@ chmod u+x 100-port_forwarding && git add --chmod=+x 100-port_forwarding && git c
 
 chmod u+x 0-block_all_incoming_traffic_but && git add --chmod=+x 0-block_all_incoming_traffic_but && git commit -m 'Task 00 0-block_all_incoming_traffic_but' && git push
 
-touch 0-block_all_incoming_traffic_but && git add . && git commit -m 0-block_all_incoming_traffic_but
+touch 100-port_forwarding && git add . && git commit -m 100-port_forwarding
 
 make -f 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
