@@ -19,7 +19,7 @@ chmod u+x 6-print_hexa.py && git add --all && git commit -m 'task 06 6-print_hex
 
 API Key: e01976a189aad01d8afe4ec4cae60915
 
-mkdir 0x0E-web_stack_debugging_1 && cd 0x0E-web_stack_debugging_1 && echo '# 0x0E-web_stack_debugging_1' >> README.md
+mkdir 0x13-firewall && cd 0x13-firewall && echo '# 0x13-firewall' >> README.md
 
 cd .. && git add . && git commit -m readme
 
