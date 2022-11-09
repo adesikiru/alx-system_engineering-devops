@@ -7,7 +7,7 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-port_forwarding && git add --chmod=+x 100-port_forwarding && git commit -m 'Advanced Task 100 100-port_forwarding' && git push
 
-chmod u+x 0-block_all_incoming_traffic_but && git add --chmod=+x 0-block_all_incoming_traffic_but && git commit -m 'Task 00 0-block_all_incoming_traffic_but' && git push
+chmod u+x signature.key && git add --chmod=+x signature.key && git commit -m 'Task 00 signature.key' && git push
 
 touch signature.key && git add . && git commit -m signature.key
 
