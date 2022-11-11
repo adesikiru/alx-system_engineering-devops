@@ -7,7 +7,7 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-port_forwarding && git add --chmod=+x 100-port_forwarding && git commit -m 'Advanced Task 100 100-port_forwarding' && git push
 
-chmod u+x 1-run_nginx_as_nginx && git add --chmod=+x 1-run_nginx_as_nginx && git commit -m 'Task 00 1-run_nginx_as_nginx' && git push
+chmod u+x 1-run_nginx_as_nginx && git add --chmod=+x 1-run_nginx_as_nginx && git commit -m 'Task 01 1-run_nginx_as_nginx' && git push
 
 touch 1-run_nginx_as_nginx && git add . && git commit -m 1-run_nginx_as_nginx
 
