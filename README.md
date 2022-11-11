@@ -5,7 +5,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && git commit -m 'header file relationship_state.py' && git push
 
-chmod u+x 100-port_forwarding && git add --chmod=+x 100-port_forwarding && git commit -m 'Advanced Task 100 100-port_forwarding' && git push
+chmod u+x 100-fix_in_7_lines_or_less && git add --chmod=+x 100-fix_in_7_lines_or_less && git commit -m 'Advanced Task 100 100-fix_in_7_lines_or_less' && git push
 
 chmod u+x 1-run_nginx_as_nginx && git add --chmod=+x 1-run_nginx_as_nginx && git commit -m 'Task 01 1-run_nginx_as_nginx' && git push
 
