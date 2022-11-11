@@ -9,7 +9,7 @@ chmod u+x 100-fix_in_7_lines_or_less && git add --chmod=+x 100-fix_in_7_lines_or
 
 chmod u+x 1-run_nginx_as_nginx && git add --chmod=+x 1-run_nginx_as_nginx && git commit -m 'Task 01 1-run_nginx_as_nginx' && git push
 
-touch 1-run_nginx_as_nginx && git add . && git commit -m 1-run_nginx_as_nginx
+touch 100-fix_in_7_lines_or_less && git add . && git commit -m 100-fix_in_7_lines_or_less
 
 make -f 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
