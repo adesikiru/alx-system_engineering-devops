@@ -7,9 +7,9 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-port_forwarding && git add --chmod=+x 100-port_forwarding && git commit -m 'Advanced Task 100 100-port_forwarding' && git push
 
-chmod u+x 5-mysql_backup && git add --chmod=+x 5-mysql_backup && git commit -m 'Task 00 5-mysql_backup' && git push
+chmod u+x 0-iamsomeoneelse && git add --chmod=+x 0-iamsomeoneelse && git commit -m 'Task 00 0-iamsomeoneelse' && git push
 
-touch 5-mysql_backup && git add . && git commit -m 5-mysql_backup
+touch 0-iamsomeoneelse && git add . && git commit -m 0-iamsomeoneelse
 
 make -f 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
