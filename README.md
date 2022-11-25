@@ -22,4 +22,3 @@ API Key: e01976a189aad01d8afe4ec4cae60915
 mkdir 0x18-webstack_monitoring && cd 0x18-webstack_monitoring && echo '# 0x18-webstack_monitoring' >> README.md && git add . && git commit -m update
 
 cd .. && git add . && git commit -m readme
-
