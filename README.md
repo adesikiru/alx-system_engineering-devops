@@ -7,7 +7,7 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-count.py && git add --chmod=+x 100-count.py && git commit -m 'Advanced Task 100 100-count.py' && git push
 
-chmod u+x 1-export_to_CSV.py && git add --chmod=+x 1-export_to_CSV.py && git commit -m 'Task 03 1-export_to_CSV.py' && git push
+chmod u+x 1-export_to_CSV.py && git add --chmod=+x 1-export_to_CSV.py && git commit -m 'Task 01 1-export_to_CSV.py' && git push
 
 touch 1-export_to_CSV.py && git add . && git commit -m 1-export_to_CSV.py
 
