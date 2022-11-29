@@ -9,7 +9,7 @@ chmod u+x 100-count.py && git add --chmod=+x 100-count.py && git commit -m 'Adva
 
 chmod u+x 1-run_nginx_as_nginx && git add --chmod=+x 1-run_nginx_as_nginx && git commit -m 'Task 01 1-run_nginx_as_nginx' && git push
 
-touch 100-count.py && git add . && git commit -m 100-count.py
+touch 0-subs.py && git add . && git commit -m 0-subs.py
 
 make -f 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
