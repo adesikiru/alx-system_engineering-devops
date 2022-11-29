@@ -7,9 +7,9 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-count.py && git add --chmod=+x 100-count.py && git commit -m 'Advanced Task 100 100-count.py' && git push
 
-chmod u+x 2-export_to_JSON.py && git add --chmod=+x 2-export_to_JSON.py && git commit -m 'Task 02 2-export_to_JSON.py' && git push
+chmod u+x 3-dictionary_of_list_of_dictionaries.py && git add --chmod=+x 3-dictionary_of_list_of_dictionaries.py && git commit -m 'Task 02 3-dictionary_of_list_of_dictionaries.py' && git push
 
-touch 2-export_to_JSON.py && git add . && git commit -m 2-export_to_JSON.py
+touch 3-dictionary_of_list_of_dictionaries.py && git add . && git commit -m 3-dictionary_of_list_of_dictionaries.py
 
 make -f 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
