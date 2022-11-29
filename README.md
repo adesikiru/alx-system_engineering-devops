@@ -7,7 +7,7 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-count.py && git add --chmod=+x 100-count.py && git commit -m 'Advanced Task 100 100-count.py' && git push
 
-chmod u+x 0-gather_data_from_an_API.py && git add --chmod=+x 0-gather_data_from_an_API.py && git commit -m 'Task 01 0-gather_data_from_an_API.py' && git push
+chmod u+x 0-gather_data_from_an_API.py && git add --chmod=+x 0-gather_data_from_an_API.py && git commit -m 'Task 00 0-gather_data_from_an_API.py' && git push
 
 touch 0-gather_data_from_an_API.py && git add . && git commit -m 0-gather_data_from_an_API.py
 
