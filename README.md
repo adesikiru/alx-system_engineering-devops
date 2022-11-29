@@ -7,7 +7,7 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-count.py && git add --chmod=+x 100-count.py && git commit -m 'Advanced Task 100 100-count.py' && git push
 
-chmod u+x 1-run_nginx_as_nginx && git add --chmod=+x 1-run_nginx_as_nginx && git commit -m 'Task 00 1-run_nginx_as_nginx' && git push
+chmod u+x 0-subs.py && git add --chmod=+x 0-subs.py && git commit -m 'Task 00 0-subs.py' && git push
 
 touch 0-subs.py && git add . && git commit -m 0-subs.py
 
