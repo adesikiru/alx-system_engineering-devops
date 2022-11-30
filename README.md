@@ -7,9 +7,9 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-count.py && git add --chmod=+x 100-count.py && git commit -m 'Advanced Task 100 100-count.py' && git push
 
-chmod u+x 0-setup_datadog && git add --chmod=+x 0-setup_datadog && git commit -m 'Task 00 0-setup_datadog' && git push
+chmod u+x 2-setup_datadog && git add --chmod=+x 2-setup_datadog && git commit -m 'Task 00 2-setup_datadog' && git push
 
-touch 0-setup_datadog && git add . && git commit -m 0-setup_datadog
+touch 2-setup_datadog && git add . && git commit -m 2-setup_datadog
 
 make -f 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
