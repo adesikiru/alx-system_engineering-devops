@@ -19,6 +19,6 @@ chmod u+x 6-print_hexa.py && git add --all && git commit -m 'task 06 6-print_hex
 
 API Key: e01976a189aad01d8afe4ec4cae60915
 
-mkdir 0x18-webstack_monitoring && cd 0x18-webstack_monitoring && echo '# 0x18-webstack_monitoring' >> README.md && git add . && git commit -m update
+mkdir 0x19-postmortem && cd 0x19-postmortem && echo '# 0x19-postmortem' >> README.md && git add . && git commit -m update
 
 cd .. && git add . && git commit -m readme
