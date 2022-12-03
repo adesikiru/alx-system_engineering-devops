@@ -7,7 +7,7 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-count.py && git add --chmod=+x 100-count.py && git commit -m 'Advanced Task 100 100-count.py' && git push
 
-chmod u+x issue.md && git add --chmod=+x issue.md && git commit -m 'Task 02 issue.md' && git push
+chmod u+x issue.md && git add --chmod=+x issue.md && git commit -m 'Task 00 issue.md' && git push
 
 touch issue.md && git add . && git commit -m issue.md
 
