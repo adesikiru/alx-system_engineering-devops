@@ -19,6 +19,6 @@ chmod u+x 6-print_hexa.py && git add --all && git commit -m 'task 06 6-print_hex
 
 API Key: e01976a189aad01d8afe4ec4cae60915
 
-mkdir 0x1A-application_server && cd 0x1A-application_server && echo '# 0x1A-application_server' >> README.md && git add . && git commit -m update
+mkdir 0x1B-web_stack_debugging_4 && cd 0x1B-web_stack_debugging_4 && echo '# 0x1B-web_stack_debugging_4' >> README.md && git add . && git commit -m update
 
 cd .. && git add . && git commit -m readme
