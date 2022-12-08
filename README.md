@@ -7,9 +7,9 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-count.py && git add --chmod=+x 100-count.py && git commit -m 'Advanced Task 100 100-count.py' && git push
 
-chmod u+x 4-reload_gunicorn_no_downtime && git add --chmod=+x 4-reload_gunicorn_no_downtime && git commit -m 'Task 04 4-reload_gunicorn_no_downtime' && git push
+chmod u+x 5-app_server-nginx_config && git add --chmod=+x 5-app_server-nginx_config && git commit -m 'Task 04 5-app_server-nginx_config' && git push
 
-touch 4-reload_gunicorn_no_downtime && git add . && git commit -m 4-reload_gunicorn_no_downtime
+touch 5-app_server-nginx_config && git add . && git commit -m 5-app_server-nginx_config
 
 make -f 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
