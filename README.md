@@ -7,9 +7,9 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-count.py && git add --chmod=+x 100-count.py && git commit -m 'Advanced Task 100 100-count.py' && git push
 
-chmod u+x 5-app_server-nginx_config && git add --chmod=+x 5-app_server-nginx_config && git commit -m 'Task 05 5-app_server-nginx_config' && git push
+chmod u+x gunicorn.service && git add --chmod=+x gunicorn.service && git commit -m 'Task 05 gunicorn.service' && git push
 
-touch 5-app_server-nginx_config && git add . && git commit -m 5-app_server-nginx_config
+touch gunicorn.service && git add . && git commit -m gunicorn.service
 
 make -f 100-redirect_http_to_https && git add . && git commit -m 100-redirect_http_to_https
 
