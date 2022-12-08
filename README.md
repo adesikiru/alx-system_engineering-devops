@@ -7,7 +7,7 @@ chmod u+x relationship_state.py && git add --chmod=+x relationship_state.py && g
 
 chmod u+x 100-count.py && git add --chmod=+x 100-count.py && git commit -m 'Advanced Task 100 100-count.py' && git push
 
-chmod u+x gunicorn.service && git add --chmod=+x gunicorn.service && git commit -m 'Task 05 gunicorn.service' && git push
+chmod u+x gunicorn.service && git add --chmod=+x gunicorn.service && git commit -m 'Task 01 gunicorn.service' && git push
 
 touch gunicorn.service && git add . && git commit -m gunicorn.service
 
